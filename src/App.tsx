@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 const App = () => {
+  const lel = 111;
   return (
     <div className="App">
       <header className="App-header">
@@ -21,6 +22,6 @@ const App = () => {
       </header>
     </div>
   );
-}
+};
 
 export default App;
